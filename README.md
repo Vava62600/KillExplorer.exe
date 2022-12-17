@@ -1,4 +1,4 @@
-# KillProsess Ver 1.1 Bêta #
+# KillExplorer.exe Ver 1.1  #
  For your security, This file must be opened in a Virtual Machine 
  The creator is not responsible for damage to your computer or your Files 
 
