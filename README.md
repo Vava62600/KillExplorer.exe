@@ -13,7 +13,7 @@
 
  > Windows 7 Home Premium 
 
- > Windows 10 Professional N 22H2 
+ > Windows 10 Proffessional N 22H2 
 
  > Windows 11 Proffesional N 22H2 
 
